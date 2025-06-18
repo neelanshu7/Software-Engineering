@@ -1,8 +1,5 @@
 ## 🧩 <ins>Use Case and Activity Diagrams</ins>
 
-<details>
-  <summary>Click to expand</summary>
-
 ### Use Case Diagram
 Use Case Diagrams help in identifying the system's functionalities from an end-user perspective.
 
