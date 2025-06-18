@@ -2,9 +2,6 @@
 
 ## 🔧 <ins>Software Requirement Specification (SRS) Report</ins>
 
-<details>
-  <summary>Click to expand</summary>
-
 ### 1. Introduction
 The Software Requirement Specification (SRS) document describes the complete behavior of the system to be developed. It includes both functional and non-functional requirements and serves as a reference throughout the development lifecycle.
 
@@ -31,5 +28,3 @@ To clearly define the functionalities, design constraints, and performance metri
 ### 6. Assumptions and Dependencies
 - Internet connectivity is required
 - Model is pre-trained and updated periodically
-
-</details>
