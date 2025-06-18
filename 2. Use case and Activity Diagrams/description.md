@@ -1,22 +1,3 @@
-## 🧩 <ins>Use Case and Activity Diagrams</ins>
-
-### Use Case Diagram
-Use Case Diagrams help in identifying the system's functionalities from an end-user perspective.
-
-#### Actors:
-- **Admin**
-- **Registered User**
-- **ML Model**
-
-#### Use Cases:
-- Login/Register
-- Upload Data
-- Predict Outcome
-- View Results
-- Download Report
-
-
-
 ## 🟩 Use Case and Activity Diagrams
 
 **Use Case Diagrams** visually represent the interactions between users (actors) and the system, outlining the system's functional requirements. Each use case describes a specific function or goal that an actor wants to achieve with the system[3][5].
