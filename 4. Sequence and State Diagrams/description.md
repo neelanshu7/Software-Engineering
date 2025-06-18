@@ -25,4 +25,4 @@ These diagrams are especially useful for:
 | **Use**            | Use case scenarios, workflows          | Object behavior, lifecycle modeling             |
 
 > 💡 **Insight:**  
-> *Sequence diagrams clarify how components collaborate, while state diagrams reveal how an object’s state changes in response to events — both are essential for robust system modeling* [11].
+> *Sequence diagrams clarify how components collaborate, while state diagrams reveal how an object’s state changes in response to events — both are essential for robust system modeling*.
